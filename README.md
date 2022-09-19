@@ -1,3 +1,4 @@
 # reimagined-octo-eureka
 
-I made this change in the browser
+This is the first line of text of my new readme file! 
+Hello world! 
